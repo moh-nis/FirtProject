@@ -6,7 +6,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		List list = new ArrayList<>();
+		Set set = new HashSet<>();
 		
 	}
 
