@@ -6,7 +6,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		HashSet list = new HashSet<>();
+		Map map = new HashMap<>();
 		
 	}
 
