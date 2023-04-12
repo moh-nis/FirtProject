@@ -8,7 +8,6 @@ public class Test {
 		Set set;
 		HashSet list = new HashSet<>();
 		List lis;
-		
 	}
 
 }
